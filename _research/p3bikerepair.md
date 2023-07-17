@@ -1,6 +1,6 @@
 ---
 title: "Repair or Replace: Evidence of Sequential Diagnostic Decisions on Product Returns"
-excerpt: 'This paper is about bike-sharing platform.'
+excerpt: 'with Ziqi Dong, Guangwen Kong, Qiuping Yu'
 ---
 As bike sharing is becoming popular among consumers, these shared bikes are more susceptible to damage due to heavy daily operations. The high maintenance cost for shared bikes has been one of the critical elements of the operation of bike-sharing platforms.
 
