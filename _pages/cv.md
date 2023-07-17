@@ -11,32 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Management Information Systems, Harbin Institute of Technology, 2013-2017
+* M.S. in Management Information Systems, Harbin Institute of Technology, 2017-2019
+* Ph.D in Operations and Supply Chain Management, Temple University, 2019- present
 
-Work experience
+Research Interests
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Sharing Economy and Marketplace Innovation, Service Operations, Data-driven Research, Behavioral Operations Management, Retailer Competition
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
+Research in Progress
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
