@@ -3,6 +3,9 @@ title: "Repair or Replace: Evidence of Sequential Diagnostic Decisions on Produc
 permalink: /research/p3-bike-repair
 excerpt: with Hailong Cui, Guangwen Kong, Guo Li. _Wokring_ _in_ _Analysis_
 ---
+
+Hailong Cui, Jingxuan Geng, Guangwen Kong, Guo Li (Alphabetical Order)
+
 As bike sharing is becoming popular among consumers, these shared bikes are more susceptible to damage due to heavy daily operations. The high maintenance cost for shared bikes has been one of the critical elements of the operation of bike-sharing platforms.
 
 We consider an inspector and a worker sequentially decide whether to replace or repair a broken part of a bike. While replacing the broken part requires an additional cost of new parts for the platform, we find that the bike after repairing instead of replacing serve consumers for a shorter period, and is more likely to be returned to the service center for maintenance again. We empirically find that replacing a part (instead of repairing it) reduces the odds ratio of return by 4.11%. Furthermore, 1 RMB increase in part cost reduces the odds ratio of return by 0.72%.
