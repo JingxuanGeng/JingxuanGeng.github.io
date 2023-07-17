@@ -1,7 +1,7 @@
 ---
 title: "When Less is More: Analysis and Empirical Evidence of Control Limit Strategies in a Diagnosis Crowdsourcing Platform"
 permalink: /research/p2doctorplatform
-excerpt: 'with Guangwen Kong, Marco Shaojun Qin. Under 1st round'
+excerpt: with Guangwen Kong, Marco Shaojun Qin. Under 1st round at _Management_ _Science_
 ---
 with Guangwen Kong, Marco Shaojun Qin
 
