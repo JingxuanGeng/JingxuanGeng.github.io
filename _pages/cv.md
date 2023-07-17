@@ -32,16 +32,10 @@ Research in Progress
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-
-Research in Progress
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Talks
 ======
-* Pricing and Physical Channel Choice Strategies for a Multi-channel Retailer Under Consumer Showrooming and Webrooming Behaviors
+
+  * ### Pricing and Physical Channel Choice Strategies for a Multi-channel Retailer Under Consumer Showrooming and Webrooming Behaviors 
       * China Workshop on Economics of Information Systems Theory (CWEIST), 2022, online
       * 32 nd Annual POMS conference, 2022, online
       * The 2021 Workshop on Information Technologies and Systems (WITS), 2021, Austin, TX
@@ -49,9 +43,27 @@ Talks
       * 31 st Annual POMS conference, 2021, online
       * Decision Sciences Institute 51 st Annual Conference (DSI), 2020, online
       * The 2020 Conference on Information Systems and Technology (CIST), 2020, online
-* When Less is More: Analysis and Empirical Evidence of Control Limit Strategies in a Diagnosis Crowdsourcing Platform
-* Repair or Replace: Evidence of Sequential Diagnostic Decisions on Product Returns
-* Timing Matters: Crowd-sourcing Workers in On-demand Freight Matching Platforms
+
+  * ### When Less is More: Analysis and Empirical Evidence of Control Limit Strategies in a Diagnosis Crowdsourcing Platform
+      * 33rd Annual POMS conference, 2023, Orlando, FL
+      * 2022 INFORMS Annual Meeting, 2021, Indianapolis, IN
+      * Manufacturing and Service Operations Management Conference 2022, Munich, German (accepted but not attended because of visa issue)
+      * Seventh Marketplace Innovation Workshop (MIW), 2022, online
+      * 32 nd Annual POMS conference, 2022, online
+      * 2021 INFORMS Annual Meeting, 2021, Anaheim, CA
+      * The 13 th International Conference of the Chinese Scholars Association for Management Science and Engineering, 2021, Shanghai, China
+      * 31 st Annual POMS conference, 2021, online
+      * 2020 INFORMS Annual Meeting, 2020, online
+
+  * ### Repair or Replace: Evidence of Sequential Diagnostic Decisions on Product Returns
+      * 16th Annual Behavioral Operations Conference, 2023, Baltimore, MD
+      * 33rd Annual POMS conference, 2023, Orlando, FL
+      * 2022 INFORMS Annual Meeting, 2021, Indianapolis, IN
+      * 32nd Annual POMS conference, 2022, online
+
+  * ### Timing Matters: Crowd-sourcing Workers in On-demand Freight Matching Platforms
+      * 33rd Annual POMS conference, 2023, Orlando, FL
+      * Eighth Marketplace Innovation Workshop (MIW), 2023, online
   
 Teaching
 ======
