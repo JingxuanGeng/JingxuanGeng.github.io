@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="{{author.googlescholar}}">Curriculum Vitae</a>
+[Curriculum Vitae](https://ssrn.com/abstract=4508590)
 
-<a href="{{www.fox.temple.edu/directory/jingxuan-geng}}">Personal Page</a> from Temple Unviersity
+[Personal Page from Temple](https://www.fox.temple.edu/directory/jingxuan-geng)
+
+
 
 Education
 ======
