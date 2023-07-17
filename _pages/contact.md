@@ -7,7 +7,8 @@ redirect_from:
   - /resume
 ---
 
-I'd love to hear from you.
+### I'd love to hear from you.
+
 ======
 * Email: jingxuan.geng@temple.du
 * Phone: +1 (215) 398 8577
