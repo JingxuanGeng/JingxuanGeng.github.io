@@ -2,7 +2,7 @@
 title: "Innovation and Entrepreneurship in the New Economy (BA 9812)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/p2_2022spring_dba
 venue: "Teaching Assistant"
 date: 2022 Spring
 ---
