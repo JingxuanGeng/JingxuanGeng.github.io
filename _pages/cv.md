@@ -11,9 +11,6 @@ redirect_from:
 
 [Curriculum Vitae](https://ssrn.com/abstract=4508590)
 
-[Personal Page from Temple](https://www.fox.temple.edu/directory/jingxuan-geng)
-
-
 
 Education
 ======
