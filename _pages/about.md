@@ -8,3 +8,5 @@ redirect_from:
   - /about.html
 ---
 This is Jingxuan Geng's home on the web!
+
+[Personal Page from Temple](https://www.fox.temple.edu/directory/jingxuan-geng)
