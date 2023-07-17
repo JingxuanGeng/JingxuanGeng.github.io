@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+<u><a href="{{author.googlescholar}}">Curriculum Vitae</a></u>
+
+<u><a href="{{www.fox.temple.edu/directory/jingxuan-geng}}">Personal Page</a> from Temple Unviersity</u>
+
 Education
 ======
 * B.S. in Management Information Systems, Harbin Institute of Technology, 2013-2017
