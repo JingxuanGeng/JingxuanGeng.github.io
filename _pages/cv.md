@@ -41,9 +41,17 @@ Research in Progress
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Pricing and Physical Channel Choice Strategies for a Multi-channel Retailer Under Consumer Showrooming and Webrooming Behaviors
+      * China Workshop on Economics of Information Systems Theory (CWEIST), 2022, online
+      * 32 nd Annual POMS conference, 2022, online
+      * The 2021 Workshop on Information Technologies and Systems (WITS), 2021, Austin, TX
+      * Decision Sciences Institute 52 nd Annual Conference (DSI), 2021, online
+      * 31 st Annual POMS conference, 2021, online
+      * Decision Sciences Institute 51 st Annual Conference (DSI), 2020, online
+      * The 2020 Conference on Information Systems and Technology (CIST), 2020, online
+* When Less is More: Analysis and Empirical Evidence of Control Limit Strategies in a Diagnosis Crowdsourcing Platform
+* Repair or Replace: Evidence of Sequential Diagnostic Decisions on Product Returns
+* Timing Matters: Crowd-sourcing Workers in On-demand Freight Matching Platforms
   
 Teaching
 ======
