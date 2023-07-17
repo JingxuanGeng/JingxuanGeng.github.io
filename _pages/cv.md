@@ -25,6 +25,13 @@ Sharing Economy and Marketplace Innovation, Service Operations, Data-driven Rese
 
 Research in Progress
 ======
+  <ul>{% for post in site.research %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+
+Research in Progress
+======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
