@@ -17,9 +17,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Management Information Systems, Harbin Institute of Technology, 2013-2017
-* M.S. in Management Information Systems, Harbin Institute of Technology, 2017-2019
 * Ph.D in Operations and Supply Chain Management, Temple University, 2019- present
+* M.S. in Management Information Systems, Harbin Institute of Technology, 2017-2019
+* B.S. in Management Information Systems, Harbin Institute of Technology, 2013-2017
+
 
 Research Interests
 ======
