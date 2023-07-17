@@ -4,6 +4,7 @@ permalink: /research/p2doctorplatform
 excerpt: 'This paper is about doctor platform.'
 ---
 with Guangwen Kong, Marco Shaojun Qin
+
 Under 1st round review at _Management_ _Science_
 
 [Download paper here](https://ssrn.com/abstract=4508590)
