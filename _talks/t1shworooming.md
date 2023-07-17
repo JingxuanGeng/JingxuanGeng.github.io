@@ -2,7 +2,7 @@
 title: "Pricing and Physical Channel Choice Strategies for a Multi-channel Retailer Under Consumer Showrooming and Webrooming Behaviors"
 collection: talks
 type: "Talk"
-date: 2022
+date: 2022-01-01
 ---
 
 
