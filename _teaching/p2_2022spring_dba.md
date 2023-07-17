@@ -1,11 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Innovation and Entrepreneurship in the New Economy (BA 9812)"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Teaching Assistant"
+date: 2022 Spring
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
