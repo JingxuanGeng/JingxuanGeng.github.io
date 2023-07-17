@@ -1,7 +1,7 @@
 ---
 title: "Innovation and Entrepreneurship in the New Economy (BA 9812)"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Teaching Assistant"
 date: 2022 Spring
