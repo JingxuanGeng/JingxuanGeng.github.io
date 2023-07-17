@@ -1,8 +1,8 @@
 ---
-title: "Operations Management (MSOM 3101), 2022 Spring"
+title: "Operations Management, 2022 Spring"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/p3_2022spring_msom3101
+permalink: /teaching/p3-2022spring-msom3101
 venue: "Teaching Assistant"
 date: 2022-03-01
 location: "Philadelphia, PA"
