@@ -3,7 +3,7 @@ title: "When Less is More: Analysis and Empirical Evidence of Control Limit Stra
 permalink: /research/p2-doctor-platform
 excerpt: with Guangwen Kong, Marco Shaojun Qin. Under 1st round at _Management_ _Science_
 ---
-with Guangwen Kong, Marco Shaojun Qin
+Jingxuan Geng, Guangwen Kong, Marco Shaojun Qin
 
 Under 1st round review at _Management_ _Science_
 
