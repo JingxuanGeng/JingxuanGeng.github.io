@@ -1,9 +1,13 @@
 ---
 title: "Pricing and Physical Channel Choice Strategies for a Multi-channel Retailer Under Consumer Showrooming and Webrooming Behaviors"
 collection: talks
-type: "Talk"
+type: "Tutorial"
 date: 2022-01-01
+permalink: /talks/t1showrooming
+venue: "UC-Berkeley Institute for Testing Science"
+location: "Berkeley CA, USA"
 ---
+
 
 
 * China Workshop on Economics of Information Systems Theory (CWEIST), 2022, online
