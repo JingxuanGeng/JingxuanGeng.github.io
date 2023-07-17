@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-<u><a href="{{author.googlescholar}}">Curriculum Vitae</a></u>
+<a href="{{author.googlescholar}}">Curriculum Vitae</a>
 
-<u><a href="{{www.fox.temple.edu/directory/jingxuan-geng}}">Personal Page</a> from Temple Unviersity</u>
+<a href="{{www.fox.temple.edu/directory/jingxuan-geng}}">Personal Page</a> from Temple Unviersity
 
 Education
 ======
