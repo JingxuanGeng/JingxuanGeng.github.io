@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Curriculum Vitae](https://ssrn.com/abstract=4508590)
+[Curriculum Vitae (Updated on July 17, 2023)](https://www.dropbox.com/scl/fi/zihfktzzwxwji1cl31yhe/CV_Jingxuan_Geng_updated-July-17-2023.pdf?rlkey=sqkipxwpwe1yduzrn03gab4v3&dl=0)
 
 
 Education
