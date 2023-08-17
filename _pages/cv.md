@@ -14,7 +14,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Operations and Supply Chain Management, Temple University, 2019- present
+* Ph.D. in Operations and Supply Chain Management, Temple University, 2019- present
 * M.S. in Management Information Systems, Harbin Institute of Technology, 2017-2019
 * B.S. in Management Information Systems, Harbin Institute of Technology, 2013-2017
 
@@ -70,6 +70,7 @@ Teaching
   
 Service
 ======
+* Reviewer, Production and Operations Management (POMS)
 * Reviewer, The 2023 Conference on Information Systems and Technology (CIST), 2023
 * Chair of “Non-medical interventions in healthcare policies,” 33rd Annual POMS Conference, 2023
 * Co-Chair of “Innovative Operations for Fairness, Transparency and Efficiency,” 33rd Annual POMS Conference, 2023
@@ -80,6 +81,7 @@ Service
 
 Grants
 ======
+* $ 2,800 for Seed Funding Grant from Young Scholars Interdisciplinary Forum, 2022
 * $ 500 for Seed Funding Grant from Young Scholars Interdisciplinary Forum, 2021
 * $ 1,000 for Seed Funding Grant from Young Scholars Interdisciplinary Forum, 2021
 * $ 2,500 for Seed Funding Grant from Young Scholars Interdisciplinary Forum, 2020
