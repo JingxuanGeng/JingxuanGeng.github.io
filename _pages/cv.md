@@ -21,7 +21,7 @@ Education
 
 Research Interests
 ======
-Sharing Economy and Marketplace Innovation, Service Operations, Data-driven Research, Behavioral Operations Management, Retailer Competition
+Sharing Economy and Marketplace Innovation, Service Operations, Data-driven Research, Machine Learning, Behavioral Operations Management, Retailer Competition
 
 Research in Progress
 ======
