@@ -31,8 +31,8 @@ Research in Progress
 
 Awards
 ======
-  * ### Finalist in INFORMS TIMES Best Working Paper Award Competition, 2023.
-  * ### Finalist in INFORMS Conference on Service Science Best Student Paper, 2020.
+  * # Finalist in INFORMS TIMES Best Working Paper Award Competition, 2023.
+  * # Finalist in INFORMS Conference on Service Science Best Student Paper, 2020.
 
 Refereed Conference Publications
 ======
