@@ -118,7 +118,7 @@ References
       * Email: raj@marshall.usc.edu
       * Phone: 213-740-0193
    
-    * ### Subodha Kumar
+  * ### Subodha Kumar
       * Pail R. Andreson Distinguished Chair
       * Professor Professor of Statistics, Operations, and Data Science
       * (Secondary appointment in IS)
@@ -126,13 +126,13 @@ References
       * Email: subodha@temple.edu
       * Phone: 215-204-5919
 
-    * ### Qiuping Yu
+  * ### Qiuping Yu
       * Associate Professor
       * McDonough School of Business
       * Georgetown University
       * Email: qiuping.yu@georgetown.edu
      
-    * ### Marco Shaojun Qin
+  * ### Marco Shaojun Qin
       * Assistant Professor
       * Fox School of Business, Temple University
       * Email: shaojun.qin@temple.edu
