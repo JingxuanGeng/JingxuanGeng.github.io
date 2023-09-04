@@ -36,10 +36,10 @@ Awards
 
 Refereed Conference Publications
 ======
-  * ### Geng J, Kong G, Qin M. (2023) When Less is More: Analysis and Empirical Evidence of Control Limit Strategies in a Diagnosis Crowdsourcing Platform. The Conference on Health IT and Analytics (CHITA).
-  * ### Geng J, Mehra A, Kumar S. (2021) Should a Multi-channel Retailer Replace the Store with a Showroom? 31st Workshop on Information Technology and Systems (WITS).
-  * ### Geng J, Kong G, Qin M. (2021) When Less is More: Analysis and Empirical Evidence of Control Limit Strategies in a Diagnosis Crowdsourcing Platform. Manufacturing and Service Operations Management (MSOM) Conference.
-  * ### Geng J, Mehra A, Kumar S. (2020) Should Multi-channel Retailers Replace Stores with Showrooms? INFORMS Conference on Information Systems and Technology (CIST).
+  * Geng J, Kong G, Qin M. (2023) When Less is More: Analysis and Empirical Evidence of Control Limit Strategies in a Diagnosis Crowdsourcing Platform. The Conference on Health IT and Analytics (**CHITA**).
+  * Geng J, Mehra A, Kumar S. (2021) Should a Multi-channel Retailer Replace the Store with a Showroom? 31st Workshop on Information Technology and Systems (WITS).
+  * Geng J, Kong G, Qin M. (2021) When Less is More: Analysis and Empirical Evidence of Control Limit Strategies in a Diagnosis Crowdsourcing Platform. Manufacturing and Service Operations Management (MSOM) Conference.
+  * Geng J, Mehra A, Kumar S. (2020) Should Multi-channel Retailers Replace Stores with Showrooms? INFORMS Conference on Information Systems and Technology (CIST).
 
 
 Talks
