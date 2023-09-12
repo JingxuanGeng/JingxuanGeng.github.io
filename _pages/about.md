@@ -9,7 +9,7 @@ redirect_from:
 ---
 Welcome to my personal website.
 
-I am a fifth-year Ph.D. candidate at [Fox School of Business, Temple University](https://www.fox.temple.edu/directory/jingxuan-geng). I will be in the job market in 2023 Fall.
+I am a fifth-year [Ph.D. candidate at Fox School of Business, Temple University](https://www.fox.temple.edu/directory/jingxuan-geng). I will be in the job market in 2023 Fall.
 
 My research interests include Sharing Economy and Marketplace Innovation, Service Operations, Data-driven Research, Machine Learning, Behavioral Operations Management, and Retailer Competition.
 
