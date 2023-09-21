@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Curriculum Vitae (Updated on Sep 17, 2023)](https://www.dropbox.com/scl/fi/2yl6d55htzx0lqbn9d51u/CV_Jingxuan_Geng_updated-Sep-17-2023.pdf?rlkey=xc7w87fxjlvrem5d70qf3njhg&dl=0)
+[Curriculum Vitae (Updated on Sep 19, 2023)](https://www.dropbox.com/scl/fi/fqcri37jmeqjmytheadtd/CV_Jingxuan_Geng_updated-Sep-19-2023.pdf?rlkey=mfvqle4van0111rwbtacac810&dl=0)
 
 
 Education
