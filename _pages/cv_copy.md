@@ -95,3 +95,40 @@ Skills
 ======
 * __Programming Skills:__ Python, MATLAB, R, etc.
 * __Statistical Software:__ Stata, SPSS.
+
+
+References
+======
+  * ### [Guangwen Kong](https://sites.google.com/site/guangwek/home)
+      * Associate Professor of Statistics, Operations, and Data Science
+      * Cochrane Research Fellow
+      * Fox School of Business, Temple University
+      * Email: <guangwen.kong@temple.edu>
+   
+  * ### [Sampath Rajagopalan](https://www.marshall.usc.edu/personnel/sampath-rajagopalan)
+      * Richard and Jarda Hurd Chair in Distribution Management
+      * Professor of Operations Management
+      * Marshall School of Business
+      * University of Southern California
+      * Email: <raj@marshall.usc.edu>
+      * Phone: 213-740-0193
+   
+  * ### [Subodha Kumar](https://sites.temple.edu/subodha/)
+      * Paul R. Andreson Distinguished Chair
+      * Professor Professor of Statistics, Operations, and Data Science
+      * (Secondary appointment in IS)
+      * Fox School of Business, Temple University
+      * Email: <subodha@temple.edu>
+      * Phone: 215-204-5919
+
+  * ### [Qiuping Yu](https://qiupingyu.com/)
+      * Associate Professor of Operations Management and Business Analytics
+      * McDonough School of Business
+      * Georgetown University
+      * Email: <qiuping.yu@georgetown.edu>
+     
+  * ### [Marco Shaojun Qin](https://www.fox.temple.edu/directory/marco-shaojun-qin-tuk40739)
+      * Assistant Professor of Marketing
+      * Fox School of Business, Temple University
+      * Email: <shaojun.qin@temple.edu>
+      * Phone: 612-636-6021
