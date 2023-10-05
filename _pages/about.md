@@ -9,7 +9,7 @@ redirect_from:
 ---
 Welcome to my personal website.
 
-I am Jingxuan Geng, a fifth-year [Ph.D. candidate at Fox School of Business, Temple University](https://www.fox.temple.edu/directory/jingxuan-geng). I will be in the job market in 2023 Fall.
+I am Jingxuan Geng, a fifth-year [Ph.D. candidate at Fox School of Business, Temple University](https://www.fox.temple.edu/directory/jingxuan-geng). I am on the job market during 2023-2024. I am available for job interviews during the 2023 INFORMS Annual Meeting and the 2023 DSI Annual Conference. 
 
 My research interests include Sharing Economy and Marketplace Innovation, Service Operations, Data-driven Research, Machine Learning, Behavioral Operations Management, and Retailer Competition.
 
@@ -21,3 +21,5 @@ I will present it at the 2023 INFORMS Annual Meeting at the award session on [Oc
 
 I will also present it at a regular session on [Oct 15,  2:15 - 3:30 PM in Room CC-North 132C (Session SD30).](https://www.abstractsonline.com/pp8/?__hstc=194041586.bd6d4bf9f2dce6668f917286fcf9c8f5.1693598389579.1694494687517.1694546830644.17&__hssc=194041586.2.1694546830644&__hsfp=1531136680&hsCtaTracking=8f511889-324a-41b3-a438-37ad295392e9%7C0c80c5d7-cc8d-4989-9b70-52de4c44b90b#!/10856/session/390
 )
+
+
