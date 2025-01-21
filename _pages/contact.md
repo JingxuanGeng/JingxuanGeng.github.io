@@ -10,7 +10,7 @@ redirect_from:
 ### I'd love to hear from you.
 
 
-* Email: <jingxuan.geng@temple.edu>
+* Email: <jingxuan.geng@temple.edu>,<jxgeng@umich.edu>
 * Phone: +1 (215) 398 8577
-* Address: 1810 Liacouras Walk LW 350, Philadelphia, PA 19121
+* Address: 1205 BEAL AVE, Ann Arbor, MI 48109
 
