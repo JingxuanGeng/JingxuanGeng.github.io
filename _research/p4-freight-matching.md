@@ -1,7 +1,7 @@
 ---
 title: "Timing Matters: Crowd-sourcing Workers in On-demand Freight Matching Platforms"
 permalink: /research/p4-freight-matching
-excerpt: with Ziqi Dong, Guangwen Kong, Qiuping Yu. **_Working_ _in_ _Analysis_**
+excerpt: with Ziqi Dong, Guangwen Kong, Qiuping Yu. **_Working_ _in_ _Progress_**
 ---
 
 Jingxuan Geng, Ziqi Dong, Guangwen Kong, Qiuping Yu
