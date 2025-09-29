@@ -1,12 +1,17 @@
 ---
-title: "Replacing What Could Be Repaired: A Structural Analysis of Two-Stage Diagnostic Decisions in Managing Shared-Bike Returns"
-permalink: /research/p3-bike-repair
-excerpt: with Hailong Cui, Guangwen Kong. _Revising_ _for_ _submission_ _to_ **_Management_ _Science_**
+title: "Peer-to-Peer Trading Platform: Implications for Production, Consumption, and Social Welfare in the Prosumer Economy"
+permalink: /research/p5-p2p
+excerpt: with Saif Benjaafar
 ---
 
-Hailong Cui, Jingxuan Geng, Guangwen Kong(Alphabetical Order)
+Jingxuan Geng, Saif Benjaafar
 
-[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5504778)
 
-Bike-sharing platforms face significant challenges from high maintenance costs, driven by heavy usage and inefficiencies in diagnostic decision-making. Using task-level data from a leading bike-sharing platform, we develop a structural estimation model to analyze two-stage diagnostic decisions made by inspectors (stage 1) and workers (stage 2). These decisions are modeled as a strategic interaction governed by a Bayesian Nash Equilibrium (BNE). To address the computational complexity of Maximum Likelihood Estimation with BNE constraints, we employ machine learning to approximate BNE. We identify systematic overtreatment tendencies among inspectors and workers, resulting in a higher false positive rate than that under the firm’s optimal decisions and thus inflating maintenance costs. Our counterfactual analyses show that higher part costs, reducing workers’ piece-rate wages, adopting structured job matching, and prioritizing worker training can substantially reduce costs. Transitioning from a two-stage to a one-stage process lowers diagnostic accuracy and increases costs, although optimizing wages narrows this gap. This framework provides actionable insights for mitigating inefficiencies in multi-agent diagnostic decision systems and is generalizable to other credence goods industries, such as heavy equipment maintenance and healthcare, where diagnostic errors have significant financial, operational, and health implications.
+The rapid adoption of distributed renewable energy and manufacturing technologies has given rise to the concept of prosumers—individuals who are simultaneously consumers and producers. For instance, households with rooftop solar panels generate electricity for self-consumption but often produce surpluses that cannot be stored efficiently. Similarly, owners of 3D printers primarily use them for personal needs yet can also provide printing services to others when their machines are idle. Peer-to-peer (P2P) platforms, such as the Brooklyn Microgrid for energy trading, facilitate the exchange of these surplus resources by allowing prosumers to sell excess output or purchase additional capacity when needed.
+
+While such platforms help alleviate inefficiencies by matching surplus with demand, they also raise significant operational and policy challenges. On the operational side, platform designers must determine pricing mechanisms that balance supply and demand while maintaining incentives for participation on both sides. From a broader perspective, policymakers are concerned with how these platforms shape prosumer behavior, including consumption patterns, capacity installation decisions, and overall welfare outcomes.
+
+Our study, entitled “Peer-to-Peer Trading Platform: Implications for Production, Consumption, and Social Welfare in the Prosumer Economy”, builds a unified analytical framework that connects individual prosumer decisions with platform-level pricing strategies and welfare outcomes. Specifically, we ask three key questions: (1) What is the optimal price that maximizes the platform’s profit? (2) How does this price compare with the welfare-maximizing benchmark? (3) How do P2P platforms alter prosumers’ consumption, installed capacity, and surplus compared to a baseline without such platforms, and how do these effects differ under profit-maximizing versus welfare-maximizing regimes?
+
+By addressing these questions, our research highlights the tension between private platform objectives and socially desirable outcomes. Preliminary results suggest that profit-maximizing pricing may lead to underutilization of installed capacity relative to the welfare benchmark, but can nevertheless increase overall surplus by enabling flexible resource reallocation among prosumers. In doing so, this work contributes to the growing literature on platform economics and sustainable operations by providing actionable insights for both platform designers and policymakers tasked with regulating decentralized markets.
 
