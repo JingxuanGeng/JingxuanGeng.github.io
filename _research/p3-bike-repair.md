@@ -5,6 +5,7 @@ excerpt: with Hailong Cui, Guangwen Kong. _Revising_ _for_ _submission_ _to_ **_
 ---
 
 Hailong Cui, Jingxuan Geng, Guangwen Kong(Alphabetical Order)
+
 _Revising_ _for_ _submission_ _to_ **_Management_ _Science_**
 
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5504778)
