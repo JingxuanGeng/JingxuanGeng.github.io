@@ -6,7 +6,7 @@ excerpt: with Amit Mehra, Subodha Kumar. Under review at **_Information_ _System
 
 Jingxuan Geng, Amit Mehra, Subodha Kumar
 
-Under review at Information Systems Research after two rounds of review at Management Science
+Under review at **_Information_ _Systems_ _Research_** after two rounds of review at Management Science
 
 [ICIS 2024 Version](https://aisel.aisnet.org/icis2024/digital_comm/digital_comm/2/)
 
