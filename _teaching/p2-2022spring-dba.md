@@ -1,5 +1,5 @@
 ---
-title: "Innovation and Entrepreneurship in the New Economy, 2022 Spring"
+title: "Innovation and Entrepreneurship in the New Economy, 2022 Spring, Temple University"
 collection: teaching
 type: "DBA course"
 permalink: /teaching/p2-2022spring-dba
