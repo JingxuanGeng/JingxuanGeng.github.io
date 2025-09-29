@@ -3,7 +3,7 @@ title: "Optimization Methods in Supply Chain Management, 2025 Winter"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/p4-2025Winter-IOE-541
-venue: "Guest Lecture"
+venue: "Guest Lecturer"
 date: 2025-05-01
 ---
 
