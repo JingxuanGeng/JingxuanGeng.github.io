@@ -1,7 +1,7 @@
 ---
 title: "Peer-to-Peer Trading Platform: Implications for Production, Consumption, and Social Welfare in the Prosumer Economy"
 permalink: /research/p5-p2p
-excerpt: with Saif Benjaafar
+excerpt: with Saif Benjaafar **_Working_ _in_ _Progress_**
 ---
 
 Jingxuan Geng, Saif Benjaafar
