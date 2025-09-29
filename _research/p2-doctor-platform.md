@@ -5,7 +5,7 @@ excerpt: with Guangwen Kong, Marco Shaojun Qin. Under 2nd round review at **_Man
 ---
 Jingxuan Geng, Guangwen Kong, Marco Shaojun Qin
 
-Under 2nd round review at _Management_ _Science_
+Under 2nd round review at **_Management_ _Science_**
 
 [SSRN Link](https://ssrn.com/abstract=4508590)
 
