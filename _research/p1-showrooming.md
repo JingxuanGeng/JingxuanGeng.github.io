@@ -1,7 +1,7 @@
 ---
 title: "Pricing and Physical Channel Choice Strategies for an Omnichannel Retailer Under Consumer Showrooming and Webrooming Behaviors"
 permalink: /research/p1-showrooming
-excerpt: with Amit Mehra, Subodha Kumar. Under review at _Information_ _Systems_ _Research_ after two rounds of review at _Management_ _Science_
+excerpt: with Amit Mehra, Subodha Kumar. Under review at **_Information_ _Systems_ _Research_** after two rounds of review at _Management_ _Science_
 ---
 
 Jingxuan Geng, Amit Mehra, Subodha Kumar
