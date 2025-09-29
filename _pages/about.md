@@ -16,7 +16,7 @@ My research interests include Sharing Economy and Marketplace Innovation, Servic
 
 ## Update:
 
-“I will present at the **2025 INFORMS Annual Meeting** in Atlanta, in Building B, Level 4, Room B404, on Sunday, October 26, from 1:15 PM to 2:30 PM.
+I will present at the **2025 INFORMS Annual Meeting** in Atlanta, in Building B, Level 4, Room B404, on Sunday, October 26, from 1:15 PM to 2:30 PM.
 
 
 
