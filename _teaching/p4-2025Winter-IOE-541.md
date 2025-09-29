@@ -1,5 +1,5 @@
 ---
-title: "Optimization Methods in Supply Chain Management, 2025 Winter"
+title: "Optimization Methods in Supply Chain Management, 2025 Winter, University of Michigan"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/p4-2025Winter-IOE-541
