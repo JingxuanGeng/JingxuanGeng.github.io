@@ -1,7 +1,7 @@
 ---
 title: "Replacing What Could Be Repaired: A Structural Analysis of Two-Stage Diagnostic Decisions in Managing Shared-Bike Returns"
 permalink: /research/p3-bike-repair
-excerpt: with Hailong Cui, Guangwen Kong. _Revising_ _for_ submission_ _to_ _Management_ _Science_
+excerpt: with Hailong Cui, Guangwen Kong. _Revising_ _for_ _submission_ _to_ **_Management_ _Science_**
 ---
 
 Hailong Cui, Jingxuan Geng, Guangwen Kong(Alphabetical Order)
