@@ -1,5 +1,5 @@
 ---
-title: "Operations Management, 2022 Spring"
+title: "Operations Management, 2022 Spring, Temple University"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/p3-2022spring-msom3101
