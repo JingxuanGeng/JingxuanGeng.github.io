@@ -7,4 +7,5 @@ venue: "Guest Lecture"
 date: 2025-05-01
 ---
 
-The focus of this course is to learn different functions of operations and understand the problems and decisions problems faced by Operations Managers. Different methods and mathematical tools are presented for approaching the problems in the class. The course provides tools and techniques for critical decision making.
+
+Introductory graduate course on optimization methods in supply chain management. Topics include forecasting and demand models, deterministic and stochastic inventory models, multi-echelon inventory models, facility location models, process flexibility, supply chain contracts, and joint learning and optimization methods in supply chain models.
