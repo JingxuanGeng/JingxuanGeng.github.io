@@ -1,12 +1,12 @@
 ---
-title: "When Less is More: Analysis and Empirical Evidence of Control Limit Strategies in a Diagnosis Crowdsourcing Platform"
+title: "When Less is More: Control Limit Strategies in a Diagnosis Crowdsourcing Platform"
 permalink: /research/p2-doctor-platform
-excerpt: with Guangwen Kong, Marco Shaojun Qin. Under 1st round at _Management_ _Science_
+excerpt: with Guangwen Kong, Marco Shaojun Qin. Under 2nd round review at _Management_ _Science_
 ---
 Jingxuan Geng, Guangwen Kong, Marco Shaojun Qin
 
-Under 1st round review at _Management_ _Science_
+Under 2nd round review at _Management_ _Science_
 
 [SSRN Link](https://ssrn.com/abstract=4508590)
 
-We consider a diagnosis crowdsourcing platform that allows patients to seek multiple medical diagnoses from doctors online. We find that using a commission-based pricing mechanism alone may yield a downward distortion on price to prevent the over-participation of doctors compared to a centralized benchmark. By imposing a control limit on the number of diagnoses received per inquiry, the platform can charge a higher price while maintaining the appropriate number of responses from doctors. When patients are sensitive to delays in receiving diagnoses, interestingly, a platform may benefit from a patient’s increased delay sensitivity because it plays a similar role as the control limit by discouraging late-arriving doctors from participating. As a result, the profit improvement from imposing a control limit mechanism may decrease with delay sensitivity. When doctors are heterogeneous in their service quality, the undesirable outcome of low-quality doctors driving out all high-quality doctors may occur. A control limit could not only increase high-quality doctors’ participation by increasing their chances of being rewarded by patients but also increase consumer surplus. We empirically test the predictions using data from a large diagnosis crowdsourcing platform and find that it supports the results from the model analysis.
+We analyze a telemedicine platform where patients obtain multiple diagnoses from doctors for a single fee. Using commission-based pricing leads to downward price distortion to curb doctor over-participation. Introducing a control limit (capping diagnoses per inquiry) enables the platform to appropriately allocate doctors across patients. Counterintuitively, patients’ delay sensitivity—their preference for earlier diagnoses—reduces late-arriving doctor participation, acting as a natural control limit. Consequently, profit gains from control limits diminish as delay sensitivity increases. When doctors differ in quality, adverse selection occurs, i.e., low-quality doctors crowd out high-quality ones when service differentials are small. Control limits counteract this by increasing the high-quality doctors’ reward probability. Extensions such as general utility function, endogenous commission rate, endogenous effort, price differentiation, and stochastic delay time confirm the robustness of the main result. We test the predictions of our model leveraging a natural experiment, and found consistent results.
