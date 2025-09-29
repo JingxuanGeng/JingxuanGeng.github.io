@@ -1,7 +1,7 @@
 ---
 title: "When Less is More: Control Limit Strategies in a Diagnosis Crowdsourcing Platform"
 permalink: /research/p2-doctor-platform
-excerpt: with Guangwen Kong, Marco Shaojun Qin. Under 2nd round review at _Management_ _Science_
+excerpt: with Guangwen Kong, Marco Shaojun Qin. Under 2nd round review at **_Management_ _Science_**
 ---
 Jingxuan Geng, Guangwen Kong, Marco Shaojun Qin
 
