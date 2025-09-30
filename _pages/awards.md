@@ -16,4 +16,5 @@ redirect_from:
 * ### When Less is More: Control Limit Strategies in a Diagnosis Crowdsourcing Platform
   * Finalist in INFORMS TIMES Best Working Paper Award Competition, 2023.
   * Finalist in INFORMS Conference on Service Science Best Student Paper, 2020.
+  * First Place, PhD Student Research Competition at Fox School of Business, 2023.
 
