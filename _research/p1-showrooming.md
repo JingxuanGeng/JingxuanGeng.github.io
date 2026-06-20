@@ -6,7 +6,7 @@ excerpt: with Amit Mehra, Subodha Kumar. Major revision at **_Information_ _Syst
 
 Jingxuan Geng, Amit Mehra, Subodha Kumar
 
-Major revision at **_Information_ _Systems_ _Research_** after two rounds of review at Management Science
+Major revision at **_Information_ _Systems_ _Research_** 
 
 [ICIS 2024 Version](https://aisel.aisnet.org/icis2024/digital_comm/digital_comm/2/)
 
