@@ -1,7 +1,7 @@
 ---
 title: "Sequential Diagnosis Under Piece-Rate Incentives: When a Second Opinion Does (Not) Help"
 permalink: /research/p3-bike-repair
-excerpt: with Hailong Cui, Guangwen Kong. _Revising_ _for_ _submission_ _to_ **_Manufacturing_ _&_ _Service_ _Operations_ _Management_**
+excerpt: with Hailong Cui, Guangwen Kong. _Under_ _review_ _at_ **_Manufacturing_ _&_ _Service_ _Operations_ _Management_**
 ---
 
 Hailong Cui, Jingxuan Geng, Guangwen Kong(Alphabetical Order)
